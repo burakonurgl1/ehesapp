@@ -1,0 +1,48 @@
+
+.footerCell{
+    text-align:center;
+    color: white;
+    float: left;
+    margin: 15px 100px 15px 100px;
+}
+.footerMain{
+    margin:0 auto;
+	display:table;
+    background-color: black;
+    width: 100%;
+    text-align:center;
+}
+.footerBottomText{
+    width: 100%;
+    margin: 30px auto 30px auto;
+    text-align: center;
+    float: left;
+}
+
+.footerRow{
+    margin: 0 auto;
+    text-align: center;
+    width: 900px;
+}
+h6{
+    margin: 10px 0 0;
+}
+p{
+    margin: 18px 0 10px;
+}
+.hr{
+    float: left;
+    width: 900px;
+    background-color: white;
+    height: 2px;
+    transform-origin: left center 0px;
+    margin: 22px auto 0 ;
+}
+.footerBottom{
+    float: left;
+    background-color: #333333;
+    margin: 15px auto 0 auto;
+    padding: 15px 0 15px 0;
+    text-align: center;
+    width: 100%;
+}

@@ -1,0 +1,17 @@
+.dahaFazla{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-style: solid;
+    margin: 30px auto 60px;
+    border-width: 2px;
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+    background-color: transparent !important;
+    padding: 10px 30px;
+    transition: 0.8s;
+}
+.dahaFazla:hover{
+    background-color: #ffffff !important;
+    color: black !important;
+    transition: 0.8s;
+}
