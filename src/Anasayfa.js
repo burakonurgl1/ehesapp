@@ -1,10 +1,10 @@
-import './App.css';
+import './Anasayfa.css';
 import Navbar from './containers/Navbar/Navbar';
 import MainPost from './containers/MainPost/MainPost';
 import MoreButton from './components/MoreButton/MoreButton';
 import Footer from './containers/Footer/Footer';
 
-function App() {
+function Anasayfa() {
   return (
     <div className="App">
       <Navbar></Navbar>
@@ -23,4 +23,4 @@ function App() {
   );
 }
 
-export default App;
+export default Anasayfa;
