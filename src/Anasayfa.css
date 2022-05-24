@@ -3,29 +3,11 @@ body{
     color: white;
 }
 
-.Navbar{
-    width: 100%;
-    height: 100px;
-    padding: 10px;
-    color: black;
-    background-color: white;
-}
-.navbar-left{
-    margin-left: 25px;
-    margin-top: 10px;
-    float: left;
-    text-align: left;
-}
-.navbar-right{
-    height: 100%;
-    text-align: right;
-    float:right;
-    line-height: 5;
-}
 .navbarLink{
-    padding: 15px;
-    margin: 15px;
+    padding: 10px;
+    margin: 0px 10px;
     text-decoration: none;
+    text-align: right;
 }
 .navbarLink:hover{
     text-decoration: none;
@@ -61,7 +43,7 @@ body{
     position: relative;
 }
 .postSection{
-    width: 1140px;
+    width: 100%;
     justify-content: center;   
     display: flex;
     flex-direction: column;
