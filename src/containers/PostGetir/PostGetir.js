@@ -1,8 +1,10 @@
 import React, { Component } from 'react'
 import axios from 'axios'
+//import Comments from '../Comments/Comments'
 import './PostGetir.css'
 
 export default class PostGetir extends Component {
+    
     state = {
         postlar: []
     }
@@ -26,6 +28,7 @@ export default class PostGetir extends Component {
                             <p className="card-text aciklama">{post.body}</p>
                             <div className="text-center">
                                 <a href='#asd' className='postButton'>Yorumları Oku</a>
+                                
                             </div>
                         </div>
                     </div>

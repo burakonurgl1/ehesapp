@@ -4,7 +4,7 @@ import './MoreButton.css';
 class MoreButton extends Component {
   render() {
     return (
-      <a className='dahaFazla'>Daha Fazla</a>
+      <a href="#as" className='dahaFazla'>Daha Fazla</a>
     )
   }
 }
