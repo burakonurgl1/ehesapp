@@ -19,7 +19,7 @@ export default class Navbar extends Component {
   render() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand" href="#as">
+        <a className="navbar-brand" href="#anasayfa">
         <Logo src="https://web.ehesapp.com/assets/images/logo.png"></Logo>
         </a>
         <button className="navbar-toggler" type="button" onClick={this.gizleGoster} data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
