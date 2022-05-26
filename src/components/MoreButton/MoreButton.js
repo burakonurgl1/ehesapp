@@ -4,7 +4,7 @@ import './MoreButton.css';
 class MoreButton extends Component {
   render() {
     return (
-      <a href="#as" className='dahaFazla'>Daha Fazla</a>
+      <button onClick={()=> this.handleClick()} className='dahaFazla'>Daha Fazla</button>
     )
   }
 }
