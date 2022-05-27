@@ -12,6 +12,9 @@
 .baslik, .aciklama{
     color: black !important;
 }
+.baslik{
+    font-weight: 700;
+}
 .card-body{
     text-align: center;
 }
