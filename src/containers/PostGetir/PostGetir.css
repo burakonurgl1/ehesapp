@@ -6,6 +6,7 @@
     margin: 17px auto 0;
     padding: 0;
     position: relative; 
+    color: blue;
 }
 
 .baslik, .aciklama{
@@ -36,4 +37,21 @@
     color: black !important;
     transition: 0.8s;
 }
-
+.w3-button{
+    padding: 10px;
+    margin-right: 15px;
+}
+.yorumMain{
+    padding: 10px;
+    border: 1px solid;
+    margin: 10px;
+    
+}
+.yorumMain h6{
+    font-weight: 500;
+    display: grid;
+}
+.w3-container{
+    overflow: scroll;
+    height: 400px;
+}

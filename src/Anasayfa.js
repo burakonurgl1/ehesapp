@@ -4,6 +4,7 @@ import PostGetir from './containers/PostGetir/PostGetir';
 //import MoreButton from './components/MoreButton/MoreButton';
 import Footer from './containers/Footer/Footer';
 
+
 function Anasayfa() {
   
   return (
