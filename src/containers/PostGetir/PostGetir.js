@@ -89,6 +89,7 @@ class PostGetir extends Component {
             <div id="id01" className="w3-modal">
                 <div className="w3-modal-content">
                   <div className="w3-container">
+                    <center>Yorumlar</center>
                     <button onClick={()=> this.handleClose()}  className="w3-button w3-display-topright">&times;</button><br></br>
                     {
                       this.state.yorumlar

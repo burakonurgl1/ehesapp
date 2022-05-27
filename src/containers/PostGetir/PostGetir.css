@@ -58,3 +58,8 @@
     overflow: scroll;
     height: 400px;
 }
+center{
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 30px;
+}
